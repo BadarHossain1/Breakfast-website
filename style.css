@@ -68,6 +68,8 @@ nav ul li a:hover::before{
 .row{
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row-reverse;
+
 
 
 }
